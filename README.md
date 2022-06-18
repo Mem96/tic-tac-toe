@@ -41,6 +41,7 @@ I used a bit of stuff for building this website and I'd like to give credits whe
 * The background picture (paper page) is from [**Freepik**](https://it.freepik.com/foto/sfondo).
 * The fonts used can be found on [**Dafont**](https://www.dafont.com/it/theme.php?cat=601&page=10). Their names are *Header marker* from [Garisman studio](https://garisman.com/) and *Drawing with markers* from [Emily Spadoni](https://www.dafont.com/it/emily-spadoni.d5697). Check out both artists, they made some other cool fonts!
 * I made the stickers myself with **Canva** and the board drawing with... **Paint**. Shoutout to [**LunaPic**](https://www3.lunapic.com/editor/), a very useful online editor, that I used to remove the background to both.
+* I made my own Favicon using [**Favicon.cc**](https://www.favicon.cc/).
 
 ## Project setup
 
